@@ -1,4 +1,4 @@
-# TPM Artifacts 🗂️  
+# Technical Program Management 🗂️  
 A curated collection of reusable templates, documents, and tools for Technical Program Managers in tech and product development.
 
 This repository is part of the [TPM-University](https://github.com/TPM-University) initiative to build an open-source knowledge base for TPMs. The goal is to empower TPMs—aspiring, junior, and seasoned—with high-quality, real-world resources they can use and contribute to.
